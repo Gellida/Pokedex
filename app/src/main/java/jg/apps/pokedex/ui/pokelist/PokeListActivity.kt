@@ -1,4 +1,4 @@
-package jg.apps.retrofit.ui.pokelist
+package jg.apps.pokedex.ui.pokelist
 
 import PokeListAdapter
 import PokeListViewModel
@@ -7,8 +7,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
-import jg.apps.retrofit.R
-import jg.apps.retrofit.ui.pokeInfo.PokeInfoActivity
+import jg.apps.pokedex.R
+import jg.apps.pokedex.ui.pokeInfo.PokeInfoActivity
 import kotlinx.android.synthetic.main.activity_pokelist.*
 
 class PokeListActivity : AppCompatActivity() {

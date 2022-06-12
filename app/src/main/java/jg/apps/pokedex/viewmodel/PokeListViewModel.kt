@@ -1,8 +1,8 @@
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import jg.apps.retrofit.data.model.response.PokeApiResponse
-import jg.apps.retrofit.data.model.response.PokeResult
+import jg.apps.pokedex.data.model.response.PokeApiResponse
+import jg.apps.pokedex.data.model.response.PokeResult
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
@@ -36,4 +36,5 @@ class PokeListViewModel() : ViewModel() {
 
         })
     }
+
 }

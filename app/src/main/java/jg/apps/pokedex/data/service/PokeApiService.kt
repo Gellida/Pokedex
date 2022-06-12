@@ -1,6 +1,6 @@
 
 import com.alonsodelcid.pokemvvm.model.api.Pokemon
-import jg.apps.retrofit.data.model.response.PokeApiResponse
+import jg.apps.pokedex.data.model.response.PokeApiResponse
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Path

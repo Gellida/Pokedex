@@ -1,11 +1,11 @@
-package jg.apps.retrofit.ui.pokeInfo
+package jg.apps.pokedex.ui.pokeInfo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.lifecycle.ViewModelProvider
 import com.bumptech.glide.Glide
-import jg.apps.retrofit.R
-import jg.apps.retrofit.viewmodel.PokeInfoViewModel
+import jg.apps.pokedex.R
+import jg.apps.pokedex.viewmodel.PokeInfoViewModel
 import kotlinx.android.synthetic.main.activity_pokeinfo.*
 
 class PokeInfoActivity : AppCompatActivity() {

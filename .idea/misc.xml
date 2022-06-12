@@ -5,6 +5,12 @@
       <map>
         <entry key="..\:/Users/gelli/AndroidStudioProjects/Retrofit/app/src/main/res/layout/activity_main.xml" value="0.4" />
         <entry key="..\:/Users/gelli/AndroidStudioProjects/Retrofit/app/src/main/res/layout/item_todo.xml" value="0.4" />
+        <entry key="..\:/Users/gelli/AndroidStudioProjects/pokedex/app/src/main/res/layout/activity_main.xml" value="0.30833333333333335" />
+        <entry key="..\:/Users/gelli/AndroidStudioProjects/pokedex/app/src/main/res/layout/activity_poke_info.xml" value="0.30833333333333335" />
+        <entry key="..\:/Users/gelli/AndroidStudioProjects/pokedex/app/src/main/res/layout/activity_pokeinfo.xml" value="0.25" />
+        <entry key="..\:/Users/gelli/AndroidStudioProjects/pokedex/app/src/main/res/layout/activity_pokelist.xml" value="0.33" />
+        <entry key="..\:/Users/gelli/AndroidStudioProjects/pokedex/app/src/main/res/layout/card_pokemon_search.xml" value="0.25" />
+        <entry key="..\:/Users/gelli/AndroidStudioProjects/pokedex/app/src/main/res/layout/item_todo.xml" value="0.18" />
       </map>
     </option>
   </component>

@@ -1,4 +1,4 @@
-package jg.apps.retrofit.data.model.response
+package jg.apps.pokedex.data.model.response
 import com.google.gson.annotations.Expose
 import com.google.gson.annotations.SerializedName
 

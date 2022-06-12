@@ -1,4 +1,4 @@
-package jg.apps.retrofit.viewmodel
+package jg.apps.pokedex.viewmodel
 
 import PokeApiService
 import androidx.lifecycle.MutableLiveData

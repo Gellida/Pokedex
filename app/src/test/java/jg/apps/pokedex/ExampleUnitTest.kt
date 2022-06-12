@@ -1,4 +1,4 @@
-package jg.apps.retrofit
+package jg.apps.pokedex
 
 import org.junit.Test
 
