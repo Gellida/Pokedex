@@ -3,7 +3,6 @@ package jg.apps.pokedex.viewmodel
 import PokeApiService
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.alonsodelcid.pokemvvm.model.api.Pokemon
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
